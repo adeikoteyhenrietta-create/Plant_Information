@@ -1,0 +1,20 @@
+Plant 1 Information:
+   Plant name: Spirea
+   Cost: 10
+
+Plant 2 Information:
+   Plant name: Hydrangea
+   Cost: 30
+   Annual: false
+   Color of flowers: lilac
+
+Plant 3 Information:
+   Plant name: Rose
+   Cost: 6
+   Annual: false
+   Color of flowers: white
+
+Plant 4 Information:
+   Plant name: Mint
+   Cost: 4
+

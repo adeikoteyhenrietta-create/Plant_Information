@@ -1,0 +1,9 @@
+plant Spirea 10
+flower Rose 6
+plant Mint abc
+plant Fern -5
+tree Oak 50
+flower Tulip 3 maybe red
+
+flower Hydrangea 30 false lilac
+-1
